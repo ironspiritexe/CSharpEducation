@@ -1,0 +1,27 @@
+# .gitignore for JetBrains Rider
+
+# Rider configuration folders
+.idea/
+
+# User-specific files
+.idea/*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/other.xml
+.idea/modules.xml
+
+# Build output
+bin/
+obj/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific settings
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
