@@ -4,6 +4,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork1", "HomeWork1", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HomeWork1\HelloWorld\HelloWorld.csproj", "{3D8974B0-2197-43B3-8096-B8E524635BD0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HomeWork2", "HomeWork2", "{A39E1CB6-10B9-4C96-8841-C806508BB035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToe", "HomeWork2\TicTacToe\TicTacToe.csproj", "{CDE57D1C-90A1-46EC-9306-B223FF27766A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,8 +18,13 @@ Global
 		{3D8974B0-2197-43B3-8096-B8E524635BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D8974B0-2197-43B3-8096-B8E524635BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D8974B0-2197-43B3-8096-B8E524635BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE57D1C-90A1-46EC-9306-B223FF27766A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE57D1C-90A1-46EC-9306-B223FF27766A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE57D1C-90A1-46EC-9306-B223FF27766A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE57D1C-90A1-46EC-9306-B223FF27766A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3D8974B0-2197-43B3-8096-B8E524635BD0} = {9D59636A-1ACB-465B-89AF-23A82CCAF666}
+		{CDE57D1C-90A1-46EC-9306-B223FF27766A} = {A39E1CB6-10B9-4C96-8841-C806508BB035}
 	EndGlobalSection
 EndGlobal
